@@ -1,0 +1,45 @@
+
+
+.parallax{
+    background-image: url('./imgs/jwellery.jpg');
+    min-height: 1000px;
+   
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover !important;   
+}
+
+.log{
+    /* align-items: center; */
+    /* justify-content: center; */
+    height: 30% !important;
+
+    width: 35% !important;
+    padding: 10%;
+    position: absolute;
+    /* background-color:rgba(128, 128, 128, 0.295); */
+    /* margin-left: 30%; */
+    /* margin-top: 2%; */
+    left: 25%;
+    top: 70%;
+    color: rgb(248, 246, 248);
+}
+
+.disconver{
+    text-align: center;
+    color: rgb(158, 45, 73);
+    text-shadow: 2px;
+    /* font-size: 19rem; */
+    position: fixed;
+    left: 20%;
+}
+
+img{
+    height: 34rem;
+    height: 18rem;
+}
+
+.nav-style{
+    position: sticky;
+}
